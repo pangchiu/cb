@@ -5,5 +5,7 @@ public class A {
 		 index = 1;
 		index2 = 2;
 	}
-
+	public void draw(){
+		
+	}
 }
