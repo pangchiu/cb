@@ -4,6 +4,7 @@ public class A {
 	public A(){
 		 index = 1;
 		index2 = 2;
+		index1 = 1;
 	}
 
 }
